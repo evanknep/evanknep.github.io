@@ -20,6 +20,16 @@
 
 ## Projects
 ### Developing Approaches For The Computational Phenotyping of Neuropsychiatric Populations
-[Preprint] (https://osf.io/preprints/psyarxiv/y8hrp)
+[Preprint](https://osf.io/preprints/psyarxiv/y8hrp)
 
-Led the analysis for a study examining the relationship between autistic traits and executive function, using computational approaches to investigate value-based decision-making. The study involved a large sample (N=1001) and employed a three-armed restless bandit task to assess explore-exploit balance. The study found that certain social behaviors linked to autism traits can influence how people make decisions, even in situations that don't seem directly related to social interaction. Specifically, people who scored higher on a measure of social aloofness (a tendency to be less socially engaged) showed noticeable differences in how they made choices and adapted their strategies when faced with uncertain outcomes. This suggests that the way people process social information could affect their decision-making skills in broader areas of life.
+Led the analysis for a study examining the relationship between autistic traits and executive function, using computational approaches to investigate value-based decision-making. The study involved a large sample (N=1001) and employed a three-armed restless bandit task to assess explore-exploit balance. We found that certain social behaviors linked to autism traits can influence how people make decisions, even in situations that don't seem directly related to social interaction. Specifically, people who scored higher on a measure of social aloofness (a tendency to be less socially engaged) showed noticeable differences in how they made choices and adapted their strategies when faced with uncertain outcomes. This suggests that the way people process social information could affect their decision-making skills in broader areas of life.
+
+
+### Applying Classification Algorithms to Brain Activity to Predict Image Identity'
+Employed advanced machine learning techniques, including Support Vector Machines (SVM), Adaboost, and Multi-layer Perceptron, to decode visual information from rodent neural activity. Through rigorous data preprocessing and feature extraction, I optimized model performance, achieving a 90% accuracy rate in predicting stimulus identity. The results were visualized and presented to a scientific audience, highlighting the effectiveness of computational approaches in linking neural activity to perceptual outcomes.
+
+## Talks and Poster Presentations
+
+## Publications
+
+## Skills
