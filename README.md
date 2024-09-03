@@ -24,8 +24,12 @@
 
 Led the analysis and write-up for a paper examining the relationship between autistic traits and executive function, using computational approaches to investigate value-based decision-making. The study involved a large sample (N=1001) and employed a three-armed restless bandit task to assess explore-exploit balance. We found that certain social behaviors linked to autism traits can influence how people make decisions, even in situations that don't seem directly related to social interaction. Specifically, people who scored higher on a measure of social aloofness (a tendency to be less socially engaged) showed noticeable differences in how they made choices and adapted their strategies when faced with uncertain outcomes. This suggests that the way people process social information could affect their decision-making skills in broader areas of life.
 
+### Exploring The Role of NMDA Receptors in Schizophrenia: Comparison of Pharmacological and Genetic Animal Models
+fill in project info
 
-### Applying Classification Algorithms to Brain Activity to Predict Image Identity'
+
+### Decoding Stimulus Identity From Brain Activity
+
 Employed advanced machine learning techniques, including Support Vector Machines (SVM), Adaboost, and Multi-layer Perceptron, to decode visual information from rodent neural activity. Through rigorous data preprocessing and feature extraction, I optimized model performance, achieving a 90% accuracy rate in predicting stimulus identity. The results were visualized and presented to a scientific audience, highlighting the effectiveness of computational approaches in linking neural activity to perceptual outcomes.
 
 ## Talks & Lectures
@@ -39,9 +43,8 @@ Employed advanced machine learning techniques, including Support Vector Machines
 2. Chen, C. S., Knep, E., Han, A., Ebitz, R. B., & Grissom, N. (2020). Sex differences in learning from exploration. bioRxiv, 10, e69748.
 3. Chen, C., Merfeld, M., Mueller, D., Knep, E., Ebitz, B., & Grissom, N. (2023). Dopamine Mediates Exploration Via Decision Noise and Encodes State-Based Learning. 48, 315–315.
 
-## Skills
 
-## Poster Presentations
+## Conference Presentations
 1. Knep, E., Yan, X., Chen, C. S., Jacob, S., Ebitz, R. B., Grissom, N., Herman, A (November 2023). Individual differences in explore-exploit behaviors predict broad autism phenotypes in general population. Poster presented at the Annual Meeting of the Society for Neuroscience
 
 2. Knep, E., Rojas, G., Chen, C. S., Grissom, N (November 2022). Modeling of Psychosis-like Context Processing Deficits in Mice. Poster presented at the Annual Meeting of the Society  for Neuroscience (SFN 2022)
