@@ -72,3 +72,5 @@ Employed advanced machine learning techniques, including Support Vector Machines
 13. Bindas, S., Chen, C., Weaver, D., Knep, E., Grissom, N. (October 2019). Transcriptional profiles in reinforcement learning across brain regions reflect associative structure. Poster presented at the 49th Annual Meeting of the Society for Neuroscience (SfN 2019), Chicago, USA
 
 ## Additional Certifications
+- IBM Data Science Professional (_January 2024_)
+- Neuromatch - Computational Neuroscience (_July 2022_)
