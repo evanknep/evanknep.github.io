@@ -19,10 +19,10 @@
 - Enhanced code quality and efficieny by implementing automated testing protocols, achieving a marked reduction in debugging time and ensuring robust and reliable data analysis using Python and R.
 
 ## Projects
-### Developing Approaches For The Computational Phenotyping of Neuropsychiatric Populations
+### Developing Approaches For The Computational Phenotyping of Neuropsychiatric Populations: How Autism Phenotypes Influence The Way People Engage With Uncertainty
 [Preprint](https://osf.io/preprints/psyarxiv/y8hrp)
 
-Led the analysis for a study examining the relationship between autistic traits and executive function, using computational approaches to investigate value-based decision-making. The study involved a large sample (N=1001) and employed a three-armed restless bandit task to assess explore-exploit balance. We found that certain social behaviors linked to autism traits can influence how people make decisions, even in situations that don't seem directly related to social interaction. Specifically, people who scored higher on a measure of social aloofness (a tendency to be less socially engaged) showed noticeable differences in how they made choices and adapted their strategies when faced with uncertain outcomes. This suggests that the way people process social information could affect their decision-making skills in broader areas of life.
+Led the analysis and write-up for a paper examining the relationship between autistic traits and executive function, using computational approaches to investigate value-based decision-making. The study involved a large sample (N=1001) and employed a three-armed restless bandit task to assess explore-exploit balance. We found that certain social behaviors linked to autism traits can influence how people make decisions, even in situations that don't seem directly related to social interaction. Specifically, people who scored higher on a measure of social aloofness (a tendency to be less socially engaged) showed noticeable differences in how they made choices and adapted their strategies when faced with uncertain outcomes. This suggests that the way people process social information could affect their decision-making skills in broader areas of life.
 
 
 ### Applying Classification Algorithms to Brain Activity to Predict Image Identity'
